@@ -52,6 +52,7 @@ zephyr_library_sources(
     ../../src/lightdb_state.c
     ../../src/stream.c
     ../../src/log.c
+    ../../src/ai.c
     ../../src/mbox.c
     ../../src/ota.c
     ../../src/payload_utils.c
